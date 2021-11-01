@@ -6,7 +6,6 @@
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Me pergunte sobre Qualquer assunto que vá gerar uma conversa longa e pronfunda.</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
     <li>- 😄 Pronomes: Aquele que <strong>VOCÊ </strong> se sentir mais confortavel.</li>
     <li>- ⚡ Fun fact: Músico, Poeta e entusiasta do malabares.</li>
   </div>
