@@ -1,16 +1,60 @@
-### Hi there 👋
 
-<!--
-**gui-tenari/gui-tenari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estudo Desenvolvimento de Software na Trybe
+- 🌱 Aprendendo SGBD-MySQL
+- 💬 Me pergunte sobre Qualquer assunto que vá gerar uma conversa longa e pronfunda.
+- 😄 Pronomes: Aquele que vc se sentir mais confortavel.
+- ⚡ Fun fact: Músico, Poeta e entusiasta do malabares.
+ 
+Ferramentas e tecnologias que utilizo:
+bash HTML CSS bootstrap Js React redux mysql
+Contato
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá meu nome é Guilherme, mas pode me chamar de Tenari!!
+
+<div align="center">
+  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <div align="left" style="display: inline_block">
+    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🌱 Me pergunte sobre Qualquer assunto que vá gerar uma conversa longa e pronfunda.</li>
+    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
+    <li>- 😄 Pronomes: Aquele que <strong>VOCÊ </strong> se sentir mais confortavel.</li>
+    <li>- ⚡ Fun fact: Músico, Poeta e entusiasta do malabares.</li>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-ol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-ol&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+</div>
+
+---
+
+### Ferramentas e tecnologias que utilizo:
+
+<div>
+  <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+---
+
+
+### Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/guilhermetenari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilherme.tenarie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+
