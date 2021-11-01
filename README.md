@@ -1,16 +1,4 @@
 
-
-- 🔭 Atualmente estudo Desenvolvimento de Software na Trybe
-- 🌱 Aprendendo SGBD-MySQL
-- 💬 Me pergunte sobre Qualquer assunto que vá gerar uma conversa longa e pronfunda.
-- 😄 Pronomes: Aquele que vc se sentir mais confortavel.
-- ⚡ Fun fact: Músico, Poeta e entusiasta do malabares.
- 
-Ferramentas e tecnologias que utilizo:
-bash HTML CSS bootstrap Js React redux mysql
-Contato
-   
-
 ## Olá meu nome é Guilherme, mas pode me chamar de Tenari!!
 
 <div align="center">
