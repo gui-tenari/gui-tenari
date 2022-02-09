@@ -30,8 +30,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="mongodb" height="45" width="60" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-
+  <img align="center" alt="mongodb" height="55" width="50" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+  <img align="center" alt="sequelize" height="45" width="40" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+  <img align="center" alt="node.js" height="60" width="60" src="https://logospng.org/download/node-js/logo-node-js-1024.png">
+  <img align="center" alt="git" height="45" width="60" src="https://logowik.com/content/uploads/images/git6963.jpg"
 </div>
 
 ---
