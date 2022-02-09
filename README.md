@@ -2,11 +2,10 @@
 ## Olá meu nome é Guilherme, mas pode me chamar de Tenari!!
 
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Me pergunte sobre Qualquer assunto que vá gerar uma conversa longa e pronfunda.</li>
-    <li>- 😄 Pronomes: Aquele que <strong>VOCÊ </strong> se sentir mais confortavel.</li>
+    <li>- 😄 Pronomes: Ele/dele/Ela/dela. Aquele que <strong>VOCÊ </strong> se sentir mais confortavel 🤓</li>
     <li>- ⚡ Fun fact: Músico, Poeta e entusiasta do malabares.</li>
   </div>
 </div>
@@ -14,8 +13,8 @@
 ---
 
 <div align="center">
-  <img height="90m" src="https://github-readme-stats.vercel.app/api?username=gui-tenari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-tenari&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="120m" src="https://github-readme-stats.vercel.app/api?username=gui-tenari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-tenari&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---
